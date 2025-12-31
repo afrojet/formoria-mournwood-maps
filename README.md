@@ -3,7 +3,7 @@ Maps and Handouts for the Mournwood Adventure
 
 ---
 
-This repository contains maps and printable handouts for the **Mournwood Adventure**, a shifting dark forest dungeon in the **Formoria** campaign setting.
+This repository contains maps and printable handouts for the **Mournwood Adventure**, a shifting dark forest dungeon set in the [*Formoria: The Dark Age*](https://www.drivethrurpg.com/en/product/485723/formoria-the-dark-age) campaign setting.
 
 Note: The adventure is currently unreleased and unpublished and will be launched as part of an Anthology of Formorian advnetures to be crowdfunded in early 2026.
 
@@ -40,8 +40,8 @@ Alternatively, Appendix A of the adventure will include pre-built Mournwood map 
 
 ## Download
 
-- Visit **Releases**
-- Download the latest `.zip` file for the full map pack
+Download the latest release of the Mournwood Map Pack here:  
+https://github.com/afrojet/formoria-mournwood-maps/releases/latest
 
 ---
 
